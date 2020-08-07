@@ -1,0 +1,31 @@
+div.sports-news {
+  background-color: aquamarine;
+}
+
+header {
+  display: flex; 
+  justify-content: center;
+}
+
+.header-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.news-items {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+}
+
+.news {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+img {
+  width: 45vw;
+}
+
